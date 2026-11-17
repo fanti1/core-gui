@@ -25,10 +25,10 @@
 
 <p align="center">
   <a href="https://github.com/fanti1/core-gui/releases/latest">
-    <img src="https://img.shields.io/github/v/release/fanti1/core-gui?style=flat-square&label=versi%C3%B3n&color=2ed573" alt="Última versión">
+    <img src="https://img.shields.io/github/v/release/fanti1/core-gui?style=flat-square&cacheSeconds=1800&label=versi%C3%B3n&color=2ed573" alt="Última versión">
   </a>
   <a href="https://github.com/fanti1/core-gui/releases">
-    <img src="https://img.shields.io/github/downloads/fanti1/core-gui/total?style=flat-square&label=descargas&color=2ed573" alt="Descargas">
+    <img src="https://img.shields.io/github/downloads/fanti1/core-gui/total?style=flat-square&cacheSeconds=1800&label=descargas&color=2ed573" alt="Descargas">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/licencia-GPL--3.0-2ed573?style=flat-square" alt="Licencia GPL-3.0">
